@@ -52,12 +52,4 @@ button.addEventListener ("click", crInput);
 rembutton.addEventListener ("click", rem);
 rallbutton.addEventListener ("click", rall);
 
-
-
-
-
-
-/* Read 
-
-https://css-tricks.com/use-button-element/
 */
